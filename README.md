@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Archived: built in 2025 with heavy AI assistance ("vibe-coded").**
+> I kept this repo as a record of where I started: I designed the product and the architecture (Supabase, Cloudflare, OAuth), but most of the code was AI-generated. It is no longer maintained.
+> Since 2026 I write my code by hand. See [bitminded.github.io](https://github.com/TomSwb/bitminded.github.io) and my [42 projects](https://github.com/TomSwb?tab=repositories).
+
 # BitMinded Website
 
 **We Build. We Guide.**
